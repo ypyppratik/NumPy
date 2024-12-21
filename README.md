@@ -1,5 +1,3 @@
-# NumPy
-A comprehensive Jupyter Notebook showcasing foundational NumPy concepts, including array creation, indexing, slicing, mathematical operations, and linear algebra. Perfect for beginners in numerical computing!
 # NumPy Foundations
 This repository contains a Jupyter Notebook that demonstrates the foundational concepts of NumPy, a powerful library for numerical computing in Python.
 
